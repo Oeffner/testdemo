@@ -20,7 +20,7 @@ def xfunc(F, sigF):
 
 
 
-def yfunc(I, sigI):
+def yfunc(I, sigI, w):
   pass
 
 
