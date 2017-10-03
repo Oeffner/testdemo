@@ -15,7 +15,7 @@
 
 
 
-def xfunc(F, sigF):
+def xfunc(F, sigF, z):
   pass
 
 # a new comment
