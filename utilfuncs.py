@@ -27,6 +27,8 @@ def yfunc(I, sigI, w):
 def xyfunc(q, Z, w2):
   pass
 
+# life could be a lot worse
+
 def qfunc(w, x, y, z):
   pass
 
