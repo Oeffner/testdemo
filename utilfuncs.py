@@ -24,7 +24,7 @@ def yfunc(I, sigI, w):
   pass
 
 
-def xyfunc(q, Z):
+def xyfunc(q, Z, w2):
   pass
 
 def qfunc(w, x, y, z):
